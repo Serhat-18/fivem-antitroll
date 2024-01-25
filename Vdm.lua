@@ -1,4 +1,4 @@
--- OBFUSCATOR: SRHT OBFUSCATOR V2 http://www.srhdev.xyz/Site/sifrele/lua/dist/index.html
+-- OBFUSCATOR: SRHT OBFUSCATOR V2 https://www.srhdev.xyz/panel/sifrele/lua/public/
 
 -- Discord Webhook URL
 local burayaucurlogi = "WEBHOOK_HERE"
